@@ -1,0 +1,7 @@
+.blogCards {
+  transition: all 1s ease-in-out;
+}
+
+.blogCards:hover {
+  transform: scale(1.07);
+}
